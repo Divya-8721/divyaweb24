@@ -1,0 +1,17 @@
+.mainblock{
+    height: 470px;
+    width: 1090px;
+  background-color:whitesmoke;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.content{
+    height: 250px;
+    width: 250px;
+}
+img{
+    height:250px;
+    width: 250px;
+    
+}
